@@ -5,6 +5,16 @@ __pycache__/
 
 # C extensions
 *.so
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.env
+**/.idea/workspace.xml
+**/.idea/tasks.xml
+**/.idea
 
 # Distribution / packaging
 .Python
